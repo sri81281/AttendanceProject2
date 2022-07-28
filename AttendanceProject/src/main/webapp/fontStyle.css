@@ -1,0 +1,15 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: white;
+	background-size: cover;
+}
+
+h1 {
+	font-size: 2em;
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+}
